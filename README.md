@@ -9,7 +9,7 @@ Revision: 18.09.2026.
 
 ## In six lines
 
-Four engines — ChatGPT, Gemini, Claude, Perplexity. A frozen set of buyer questions, asked in a logged-out browser session. Two draws on separate days, minimum. One row per question × engine × draw, in a public CSV. A firm enters the published ranking only if cited by two engines or in both draws; anything below that threshold is counted but not named. The result is a frequency — `X av N` — never a score.
+Four engines — ChatGPT, Gemini, Claude, Perplexity. A frozen set of buyer questions, asked in a logged-out browser session. Two draws on separate days, minimum. One row per question × engine × draw, in a CSV. A firm enters the published ranking only if cited by two engines or in both draws; anything below that threshold is counted but not named. The result is a frequency — `X av N` — never a score.
 
 ---
 
@@ -159,6 +159,6 @@ The number of silent cells out of N is reported with the result. A panel with ma
 
 MIT. Use it, fork it, run it on your own market. If you publish results produced with this protocol, cite it.
 
-Measurements produced with this protocol for the Norwegian B2B market are published at [sitera.no](https://sitera.no), with the underlying matrices released alongside them.
+Measurements produced with this protocol for the Norwegian B2B market are published at [sitera.no](https://sitera.no).
 # sitering-metoden
 An open protocol for measuring how often a firm is cited by generative AI engines (ChatGPT, Gemini, Claude, Perplexity) when a buyer asks for a supplier. Maintained by Sitera, Oslo.
